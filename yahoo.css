@@ -1,0 +1,51 @@
+h1 {
+  font-family: "jinky", sans-serif;
+  text-align:center;
+  font-size:63px;
+}
+div {
+
+}
+/*
+blue color pallets
+.second-color { 
+	background: #53a8b6; 
+}
+
+.third-color { 
+	background: #79c2d0; 
+}
+
+.fourth-color { 
+	background: #bbe4e9; 
+}
+*/
+.number {
+  width: 330px;
+  height: 80px;
+  font-size: 16px;
+  display: block;
+  margin: 20px auto;
+    background:url(/Number.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 30px;
+  border:#d4c9ba solid 2px;
+  border-radius:25px;
+}
+
+.circle {
+    width: 330px;
+  height: 80px;
+  font-size: 16px;
+  display: block;
+  margin: 20px auto;
+    background:url(/circle.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 30px;
+  border:#53a8b6 solid 2px;
+  border-radius:25px;
+}
